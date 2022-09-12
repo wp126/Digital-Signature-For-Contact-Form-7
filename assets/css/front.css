@@ -1,0 +1,19 @@
+.dscf7_signature input.clearButton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    line-height: 1;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 100px;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+.dscf7_signature_inner {
+    display: inline-flex;
+    position: relative;
+}
