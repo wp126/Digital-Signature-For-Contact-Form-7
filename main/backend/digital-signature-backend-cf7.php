@@ -100,7 +100,7 @@ function  DSCF7_signature_form_tag_handler( $tag ) {
 				<canvas id="digital_signature-pad_%1$s" name="%1$s" class="digital_signature-pad" %4$s></canvas>
 				<input class="clearButton" type="button" value="+">
 			</div>
-			<span class="wpcf7-form-control-wrap %1$s">
+			<span class="wpcf7-form-control-wrap %1$s" data-name="%1$s">
 				<input %2$s/>
 				<input %5$s class="wpcf7_input_%1$s_attachment"/>
 				<input %6$s class="wpcf7_input_%1$s_inline"/>%3$s
